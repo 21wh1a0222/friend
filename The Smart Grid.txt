@@ -1,0 +1,18 @@
+The Smart Grid is a modern power grid that relies on advanced technologies to provide reliable and sustainable electricity.
+The Smart Grid is an advanced and integrated power system that relies on sophisticated computer and communication
+ technologies to ensure efficient, reliable, and sustainable electricity supply.[1]-> A Review on the Evaluation of Feature Selection
+ Using Machine Learning for Cyber-Attack
+ Detection in Smart Grid 
+ The smart grid is an advanced electrical power system that
+ integrates modern communications and information technolo
+gies to optimize the generation, distribution, and consumption
+ of electricity. Integration of smart grid technology into the
+ power industry has revolutionized the way we generate,
+ transmit, and consume energy. Increasing adoption of smart
+ grids has brought about numerous benefits for the power
+ sector, such as improved efficiency, reliability, connectivity,
+ and integration of renewable energy sources .Smartgrid
+ technology has additional benefits such as improved demand
+ response, cost savings, better customer involvement, lower
+ CO2 emissions, and integration of renewable energy technologies and electric vehicles[2]->Command Injection Attacks in
+Smart Grids: A Survey
